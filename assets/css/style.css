@@ -23,6 +23,7 @@ footer img{
     border:0;
     padding:0;
 }
+
 body{
     font-family: "Raleway",sans-serif;
     color:#fff;
@@ -30,7 +31,7 @@ body{
 }
 
 header{
-    height: 20%;
+    height:10%;
     margin:1em;
 }
 
@@ -39,6 +40,7 @@ h1 {
     text-align: center;
     font-size: 3rem;
 }
+
 .iguana-head {
     width: 100%;
     object-fit: cover; 
@@ -68,34 +70,34 @@ h1 {
     height: 200px;
     object-fit: cover; 
 }
-.icons{
+.icons {
     text-align: center;
     margin:auto;
     height: 200px;
     background-color: #1e1a13;    
 }
-.icons i{
+.icons i {
     font-size: 1em;
     padding: 1em;
 }
-.icons h2{
+.icons h2 {
     padding: 1em;
 }
-.galeria{
+.galeria {
     width: 100%;
     margin-left: 20%;
     margin-top: 3%;
 }
-.galeria-1{
+.galeria-1 {
     display:flex;
     vertical-align: middle;
 }
-.galeria li{
+.galeria li {
     margin: 3px;
     list-style: none;
     vertical-align: middle;
 }    
-.galeria img{
+.galeria img {
     width: 250px;
     height: 200px;
     object-fit: cover; 
@@ -121,8 +123,8 @@ body {
 
 .header {
   border-width: 60%;
-  height: 10em;
-  padding: 7em;
+  height: 12em;
+  padding: 9em;
   opacity: 0.7;
   background-image: url("../img/wines-g22fe4c7b5_640.jpg");
   background-size: cover;
@@ -142,7 +144,7 @@ body {
   font-size: 2em;
   font-style: oblique;
   text-align: right;
-  color: rgb(53, 235, 226);
+  color: rgb(225, 241, 240);
  }
 .social-content li {
   list-style: none;
