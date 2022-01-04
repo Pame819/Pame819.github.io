@@ -3,31 +3,20 @@
     padding: 0;
     border:0;
 }
-
 body{
     font-family: "Roboto", sans-serif;
-    color: #707070;
-    
+    color: #707070;    
 }
 nav img{
-    width: 7rem;
-    
+    width: 7rem;    
 }
-
 .subtitulo{
     color:#212529;
 }
-
 footer img{
     width: 5rem;
     border:0;
     padding:0;
-}
-
-body{
-    font-family: "Raleway",sans-serif;
-    color:#fff;
-    background-color: #000;
 }
 
 header{
@@ -35,80 +24,9 @@ header{
     margin:1em;
 }
 
-h1 {
-    font-weight: 500;
-    text-align: center;
-    font-size: 3rem;
-}
-
-.iguana-head {
-    width: 100%;
-    object-fit: cover; 
-}
-
-.desc-section_iguana_1{
-    width: 30%;
-    padding:1em;
-    display: inline-block;
-    vertical-align: middle;
-}
-.desc-section_texto{    
-    width:50%;
-    padding: 3em;
-    display: inline-block;
-    vertical-align: middle;    
-}
-.desc-section_texto p{
-    margin-bottom: 1rem;
-}
-.desc-section{
-    padding: 40px 0;
-}
-.icons-img li{
-    display: inline-block;
-    width:200px;
-    height: 200px;
-    object-fit: cover; 
-}
-.icons {
-    text-align: center;
-    margin:auto;
-    height: 200px;
-    background-color: #1e1a13;    
-}
-.icons i {
-    font-size: 1em;
-    padding: 1em;
-}
-.icons h2 {
-    padding: 1em;
-}
-.galeria {
-    width: 100%;
-    margin-left: 20%;
-    margin-top: 3%;
-}
-.galeria-1 {
-    display:flex;
-    vertical-align: middle;
-}
-.galeria li {
-    margin: 3px;
-    list-style: none;
-    vertical-align: middle;
-}    
-.galeria img {
-    width: 250px;
-    height: 200px;
-    object-fit: cover; 
-}
-.footer {
-    background-color: #1e1a13;
-    text-align: center;
-    padding: 2rem;
-  }
   @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,600;1,400&family=Permanent+Marker&family=Source+Sans+Pro:ital@1&display=swap");
-* {
+
+  * {
   margin: 0;
   border: 0;
   padding: 0;
